@@ -1,1 +1,1 @@
-insert important texts
+idk how to do this shidd.. uhh, credit to.. someone i got the yorshika logo from. genuinely forgot. mb.
