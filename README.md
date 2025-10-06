@@ -1,1 +1,2 @@
-idk how to do this shidd.. uhh, credit to.. someone i got the yorshika logo from. genuinely forgot. mb.
+Source of Yorushika's logo:
+https://note.com/aorock_official/n/nd78aa7b8a52c
