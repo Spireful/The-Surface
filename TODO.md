@@ -1,0 +1,1 @@
+Add alts, descriptions, min margin on header, change from divs to <p> or headings.

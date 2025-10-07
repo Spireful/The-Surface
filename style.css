@@ -158,7 +158,7 @@ ul {
 }
 
 .info {
-  padding: 10% 15%;
+  padding: 5% 15%;
 }
 
 .info > .wrapper {
@@ -166,9 +166,57 @@ ul {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
+  gap: 60px;
 }
 .songs {
   display: flex;
   flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 48px;
+  flex-wrap: wrap;
+}
 
+.song > .one, 
+.song > .two, 
+.song > .three, 
+.song > .four {
+  width: 175px;
+  height: 175px;
+  border: 4px solid #3882F6;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.song {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
+.song > .one > a,
+.song > .two > a,
+.song > .three > a,
+.song > .four > a {
+  height: 100%;
+  width: 100%;
+  display: block;
+}
+
+.one > a > img,
+.two > a > img,
+.three > a > img,
+.four > a > img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  display: block;  
+}
+
+.heading-desc, .heading-text, .p1, .p2 ,.p3 , .p4 {
+  text-align: center;
+  color: #1F2937;
 }
